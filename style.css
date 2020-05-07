@@ -140,7 +140,7 @@ font-weight: bold;}
 
 footer{color: white;
 background-color: #316DC3;
-width: 98vw;
+width: 95.7vw;
 height: 50px;
 margin-left: 0px;
 }
@@ -213,7 +213,7 @@ height: 200px;}
 height: 200px;}
 #gallery{height: 1200px;}
 #contact #div2,#contact #div3{display: none;}
-#contact{height: 540px;}
+#contact{height: 580px;}
 #contact #div4{margin-left: 20px;}
 nav{height: 120px;}
 nav li{font-size: 12px; margin-top: 10px;}
@@ -229,5 +229,7 @@ height: 200px;}
 #third{height: 200px; margin-left: 13px;}
 .endgame div img{width: 60px;}
 #monthly{height: 700px;}
-
+.same {font-size: 20px;}
+#contact #div1 pre{font-size:12px;}
+#gallery div img:hover{}
 }
