@@ -1,0 +1,233 @@
+*{margin: 0px 0px 0px 0px;}
+#header{ text-align: center;
+width: 98vw;
+height:60px;
+background-color: #316DC3;}
+#header img{
+	border-radius: 20px;
+	width: 20px;
+	height: 20px;
+}
+#mill{font-size: 14px; }
+img{
+margin-top: 6px;}
+span{
+color: white;}
+#header button{height: 30px;  font-size: 12px;
+color: green;
+border: 1px solid green;
+}
+#header button:hover{color: white; background-color: green;}
+nav{width: 98vw;
+height:70px;
+background-color:#f2f3f8;
+}
+nav img{height: 60px; width: 250px;
+}
+nav li{
+	padding: 7px;
+}
+a{text-decoration: none;}
+li{list-style: none;
+display: inline;}
+li a{
+text-decoration: none;
+color: black;}
+
+#third{
+	width: 90vw;
+	height: 500px;
+	margin-left: 40px;
+}
+#thirdpart{margin-left: -13px;
+	width: 98vw;
+	height: 500px;
+background-color: rgba(10%,60%,10%,0.1);}
+.asay{text-align: center;}
+#news{width: 85vw;
+height: 20px;
+border-radius: 20px;
+
+background-color: green;
+margin-left: 80px;}
+.upcoming div p b{color:blue;}
+.upcoming div p{font-size: 13px;}
+
+.table table{display: inline;}
+.table table tr td div{width: 250px; height: 60px; border-radius: 20px;
+background-color:#cec7c7; color: blue; padding-top: 4px;}
+#news span{color: white;
+	margin-left: 80px;}
+#intro{width: 98vw;
+	background-color: #f2f3f8;
+height: 600px;}
+#span1{color: #316DC3;}
+#span2{color: green;}
+#intro span{font-weight: bold; font-size: 50px;
+}
+#intro img{ width: 40px; }
+#you,#so{margin-top: 30px;	
+	color: green;}
+#so{margin-left: 15px;}
+#intro #p p{font-size: 14px;
+color: grey;
+text-align: center;}
+#monthly{margin-bottom: 0px;
+	width: 98vw;
+height: 250px;
+background-color:#316DC3; }
+#images img{ width: 60px;
+	border-radius: 50%;
+}
+table{width: 98vw;}
+table tr td{
+	text-align: center;
+}
+table tr td b{font-size: 32px; color: white;}
+table tr td .b{font-size: 19px; text-align: left;	}
+table tr td .b span {display: inline;
+margin-left: 0px;
+font-size: 20px;
+color: #0aff0a;}
+#what{width: 98vw;
+height: 650px;
+background-color:#f2f3f8; 
+margin-top:-12px;}
+#we{color: #316DC3; }
+#are{color: green; margin-left: 0px;}
+#what span{font-size: 44px;
+font-weight: bold;}
+#what img{width: 40px;}
+#do,#or{color:green; }
+
+#or{margin-left: 15px;}
+table .doing td div{background-color: white;
+width: 28vw;
+height: 190px;}
+#doing1,#doing4{margin-left: 30px;}
+table .doing td div{text-align: center;
+margin-left: 10px;
+margin-bottom: 10px;}
+#doing6 img,#doing5 img,#doing4 img,#doing3 img,#doing2 img,#doing1 img{width: 90px; height: 65px;}
+table tr td div img{border-radius: 50%;}
+table tr td div p{color: #316DC3;
+font-size: 22px;
+font-weight: bold;}
+
+#contact{width: 100vw;
+height: 350px;
+background-color:black;}
+#contact pre{
+font-size: 13px;}
+#contact #div3,#contact #div5{float:right;}
+#contact #div2,#contact #div3,#contact #div4,#contact #div5{ 
+color: white;
+font-weight: bold;}
+#contact #div1 pre {color: grey;}
+#contact div pre p b{color: green;}
+#contact #div1 {margin-left: 20px; margin-top: 60px;}
+#contact #div3 img,#contact #div5 img{ width: 25px; height: 25px;  margin-left: 10px;
+	border-radius: 20px; display: inline;}
+#contact #div2 pre,#contact #div3 pre,#contact #div4 pre,#contact #div5 pre{font-size: 18px; color: white;}
+#contact #div2 pre p,#contact #div4 pre p{color: grey; font-size: 20px;}
+#contact #div2 p,#contact #div4 p{margin-left: -4px;}
+#contact #div2,#contact #div4{margin-top: 30px;}
+#contact #div1 img{width: 17px; border-radius: 50px;}
+#contact #div3,#contact #div5 {margin-top: 30px;}
+.show{display: none;}
+
+
+
+footer{color: white;
+background-color: #316DC3;
+width: 98vw;
+height: 50px;
+margin-left: 0px;
+}
+footer small{margin-left: 40px;}
+.same{font-size: 23px;  }
+.same pre{color:royalblue;}
+.same pre p{color: black;}
+.same pre p b{color: green;}
+
+.show{font-size: 23px; color:royalblue; }
+.show p{color: black;}
+.show p b{color: green;}
+
+
+
+
+
+
+#gallery{width: 100vw; height: 450px; background-color: #f2f3f8;}
+#gallery #g1{color: #316DC3; }
+#gallery #g2,#gallery #gl2{color:green;}
+#gallery #iconic{width: 40px;}
+#gallery #gl1{ color: green;}
+#gallery #gl2{margin-left: 15px;}
+#gallery span{font-weight: bold; font-size: 50px;}
+#gallery #subgallery{width: 92vw;  height: 160px; margin-left: 45px;  overflow: hidden;
+display: flex;}
+#gallery #subgallery img{justify-content: space-around;
+	height: 160px;margin-right: 4px;
+width: 180px;}
+.phone,.globe,.msg{width: 19px;
+border-radius: 20px;}
+
+/*extra styling*/
+img[src^='twi']:hover,img[src^='dow']:hover,img[src^='instra']:hover,img[src^='youtube']:hover
+,img[src^='what']:hover{
+cursor: pointer;
+}
+nav li:hover{
+	transition-property: background-color;
+	transition-duration: 2s;
+	border-radius: 50px;
+	background-color:#316DC3 ;
+	
+}
+#subgallery .pictures {display: none;}
+nav li:hover a{ 
+color: #f2f3f8; text-decoration: none;
+ }
+#what table tr td div{box-shadow: 2px 4px 4px 3px grey; border-radius: 2px;}
+#gallery div img:hover{transform:scale(1.4,1.4);
+transition:transform 2s ease-in;}
+
+@media only screen and (max-width:660px){
+#header{height: 120px;}
+#mill{font-size: 11px;}
+#intro{height: 940px;}
+nav img{width: 98vw;}
+#intro span,#what span,#gallery span{font-size: 23px;}
+.hidden{display: none;}
+.table table tr td div{width: 150px; height: 40px; font-size: 11px; font-weight: bold;}
+.table table tr td div img{ margin-right: 8px; width: 23px;}
+.show{display:block;}
+#gallery #subgallery{width: 98vw;
+height: 2000px;}
+#gallery #subgallery img{display: none;}
+#gallery #subgallery .pictures{display: block; width: 98vw;
+height: 200px;}
+#gallery #subgallery .pictures img{width: 80vw; display: block;
+height: 200px;}
+#gallery{height: 1200px;}
+#contact #div2,#contact #div3{display: none;}
+#contact{height: 540px;}
+#contact #div4{margin-left: 20px;}
+nav{height: 120px;}
+nav li{font-size: 12px; margin-top: 10px;}
+nav .home{margin-left: 0px;}
+#what table tr td div{margin-left: 3px; height: 110px; font-size: 11px; width: 100px;
+margin-right: 0px;}
+#what table tr td div p{font-size: 11px;}
+#what{height: 430px;}
+#news{margin-left: 20px;}
+#news span{margin-left: 10px;}
+#thirdpart{overflow: hidden;
+height: 200px;}
+#third{height: 200px; margin-left: 13px;}
+.endgame div img{width: 60px;}
+#monthly{height: 700px;}
+
+}
